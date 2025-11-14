@@ -1,5 +1,10 @@
 # quickstart
 
+## Profond Text Here
+
+- [git](https://git-scm.com)
+- [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
+
 ## References:
 - [WPILib](https://docs.wpilib.org/en/stable/)
 - [Phoenix 6](https://v6.docs.ctr-electronics.com/en/stable/)
