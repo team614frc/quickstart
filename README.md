@@ -1,6 +1,6 @@
 # quickstart
 
-This guide helps new software team members get up to speed and serves as a reference for all things software. This is a living document—if you find something useful, open a PR to add it. Your contributions will help future members, including yourself.
+This guide helps new software team members get up to speed and serves as a reference for all things software. This is a living document—if you find something useful, solve a problem, or get an answer to a question, open a PR to add it. Your contributions will help future members, including yourself.
 
 ## Requirements
 
