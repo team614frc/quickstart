@@ -64,3 +64,7 @@ sudo apt install openjdk-17-jdk -y # install Java
 ```
 
 When opening the repository in WPILib VS Code, you'll be prompted to reopen it in WSL. After doing so, go to the Extensions tab and install the WPILib extension for WSL.
+
+### Driver Station Laptop
+
+The driver station laptop is reserved for driving only—do not use it for development. It should always stay on the driver station. Keep it updated with the FRC Game Tools for the current season.
