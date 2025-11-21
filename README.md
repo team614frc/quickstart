@@ -39,6 +39,7 @@ This guide helps new software team members get up to speed and serves as a refer
 
 - [Phoenix 6](https://v6.docs.ctr-electronics.com/en/stable/)
 - [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
+- [GitHub Actions](https://docs.github.com/en/actions/get-started/quickstart)
 
 ## Team Laptops
 
