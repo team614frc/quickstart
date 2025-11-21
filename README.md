@@ -1,6 +1,6 @@
 # quickstart
 
-This guide helps new software team members get up to speed and serves as a reference for all things Team 614 software. This is a living document—if you find something useful, open a PR to add it. Your contributions will help future members, including yourself.
+This guide helps new software team members get up to speed and serves as a reference for all things software. This is a living document—if you find something useful, open a PR to add it. Your contributions will help future members, including yourself.
 
 ## Requirements
 
@@ -45,3 +45,17 @@ This guide helps new software team members get up to speed and serves as a refer
 The team provides laptops (labeled `01` through `05`) with the required software that cannot be installed on school-provided machines. If you have a personal laptop, please use it so others without one can access the team laptops. If you use a team laptop, stick with the same one to avoid reinitializing git credentials.
 
 The laptops have WSL installed. All programming should be done through WSL, and all repos should be cloned into the WSL home directory. Keeping repositories in one place prevents duplicates and helps everyone find things. A similar setup is recommended for personal computers to stay organized.
+
+### Laptop Setup
+
+WSL is installed so software team members can get comfortable with Linux. Since the roboRIO runs a Linux-based system, familiarity with Linux helps when you need to SSH into the RIO for debugging.
+
+```bash
+wsl --install -d Ubuntu
+```
+
+```bash
+cd # go to the WSL home directory
+git clone https://github.com/team614frc/Team-614-Kraken-Roomba # git is pre-installed in WSL
+sudo apt install openjdk-17-jdk -y # install Java
+```
