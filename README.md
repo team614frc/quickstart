@@ -47,6 +47,8 @@ The team provides laptops (labeled `01` through `05`) with the required software
 
 The laptops have WSL installed. All programming should be done through WSL, and all repos should be cloned into the WSL home directory. Keeping repositories in one place prevents duplicates and helps everyone find things. A similar setup is recommended for personal computers to stay organized.
 
+The laptops don't have assigned chargers—any 65W USB-C charger will work. Always return laptops and chargers to the central location to keep things organized. Failure to do so may restrict your access to team equipment.
+
 ### Laptop Setup
 
 WSL is installed so software team members can get comfortable with Linux. Since the roboRIO runs a Linux-based system, familiarity with Linux helps when you need to SSH into the RIO for debugging.
