@@ -40,7 +40,7 @@ This guide helps new software team members get up to speed and serves as a refer
 - [Phoenix 6](https://v6.docs.ctr-electronics.com/en/stable/)
 - [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
 
-## Laptops
+## Team Laptops
 
 The team provides laptops (labeled `01` through `05`) with the required software that cannot be installed on school-provided machines. If you have a personal laptop, please use it so others without one can access the team laptops. If you use a team laptop, stick with the same one to avoid reinitializing git credentials.
 
@@ -59,3 +59,5 @@ cd # go to the WSL home directory
 git clone https://github.com/team614frc/Team-614-Kraken-Roomba # git is pre-installed in WSL
 sudo apt install openjdk-17-jdk -y # install Java
 ```
+
+When opening the repository in WPILib VS Code, you'll be prompted to reopen it in WSL. After doing so, go to the Extensions tab and install the WPILib extension for WSL.
