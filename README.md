@@ -12,6 +12,7 @@ This guide helps new software team members get up to speed and serves as a refer
 ## Git Conventions
 
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- Press `CTRL+SHIFT+G` to open source control. 
 
   Use commit prefixes to identify the type of change:
 
@@ -43,6 +44,7 @@ Example: `cd Document`.
 - The command `ls` displays all the files and directories in the current location (directory).
 - The command `pwd` checks the current location path (current directory name).
 - [Linux Directories](https://www.geeksforgeeks.org/linux-unix/cd-command-in-linux-with-examples/)
+
 
 ## References
 
@@ -76,6 +78,13 @@ When opening the repository in WPILib VS Code, you'll be prompted to reopen it i
 There are also other extentions that are useful with WPILIB VS Code that are reccomended to be installed. They are:
 - Extension Pack for Java
 - GitHub Pull Requests
+
+## Linking VS Code Account to Github
+This step will allow you to commit changes. 
+
+Open terminal:
+- To enter username: `git config --global user.name "<name>"`.
+- To enter email: `git config --global user.email "<email>"`.
 
 ### Driver Station Laptop
 
