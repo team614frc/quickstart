@@ -36,6 +36,14 @@ This guide helps new software team members get up to speed and serves as a refer
   git merge main
   ```
 
+## Linux Commands 
+- `cd` (change directory) command is a linux command for changing the directory or navigating between directories in the file system. 
+- For moving into a subdirectory: `cd [directory_name]`.
+Example: `cd Document`.
+- The command `ls` displays all the files and directories in the current location (directory).
+- The command `pwd` checks the current location path (current directory name).
+- [Linux Directories](https://www.geeksforgeeks.org/linux-unix/cd-command-in-linux-with-examples/)
+
 ## References
 
 - [Phoenix 6](https://v6.docs.ctr-electronics.com/en/stable/)
