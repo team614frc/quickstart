@@ -65,7 +65,7 @@ sudo apt install openjdk-17-jdk -y # install Java
 ```
 
 When opening the repository in WPILib VS Code, you'll be prompted to reopen it in WSL. After doing so, go to the Extensions tab and install the WPILib extension for WSL.
-There are also other extentions that are useful with WPILIB VS Code that are reccomended to be installed. They are
+There are also other extentions that are useful with WPILIB VS Code that are reccomended to be installed. They are:
 - Extension Pack for Java
 - GitHub Pull Requests
 
