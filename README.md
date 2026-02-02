@@ -89,3 +89,31 @@ Open terminal:
 ### Driver Station Laptop
 
 The driver station laptop is reserved for driving only—do not use it for development. It should always stay on the driver station. Keep it updated with the FRC Game Tools for the current season.
+
+## Autonomous Naming Convention
+
+We use SCREAMING_SNAKE_CASE for all autonomous naming.
+
+### Path Naming
+
+When making paths, use an abbreviation of the auto followed by `_number`:
+
+```
+OH_1
+OH_2
+OH_3
+```
+
+Where `OH` is an abbreviation for the auto name (e.g., `OUTPOST_HUB`).
+
+### Auto Naming
+
+For the autonomous routines themselves, name them descriptively based on what they do:
+
+```
+OUTPOST_HUB
+CENTER_LINE_RUSH
+AMP_SIDE_FOUR
+```
+
+Choose names that clearly communicate the auto's strategy or objective.
